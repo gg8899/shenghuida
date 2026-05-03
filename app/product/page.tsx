@@ -26,7 +26,7 @@ export default function Page() {
                     </div>
                     <div className="product-item">
                         <Image src={product02} alt="叉车锂电池" />
-                        <div class="product-info">
+                        <div className="product-info">
                             <h3>叉车专用锂离子电池</h3>
                             <p>快充长续航、免维护，支持铅酸改锂电，BMS智能保护，循环寿命超3000次</p>
                             <a href="#form" className="product-btn">咨询报价</a>
